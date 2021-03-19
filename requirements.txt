@@ -7,7 +7,7 @@ freeze==1.0.10
 future==0.16.0
 gunicorn==19.6.0
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==2.11.3
 MarkupSafe==0.23
 python-telegram-bot==5.2.0
 pytz==2016.7
